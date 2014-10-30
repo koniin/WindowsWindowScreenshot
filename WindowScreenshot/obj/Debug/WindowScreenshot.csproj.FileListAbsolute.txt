@@ -1,0 +1,9 @@
+C:\Code\WindowScreenshot\WindowScreenshot\bin\Debug\WindowScreenshot.exe.config
+C:\Code\WindowScreenshot\WindowScreenshot\obj\Debug\WindowScreenshot.csprojResolveAssemblyReference.cache
+C:\Code\WindowScreenshot\WindowScreenshot\obj\Debug\WindowScreenshot.Form1.resources
+C:\Code\WindowScreenshot\WindowScreenshot\obj\Debug\WindowScreenshot.Properties.Resources.resources
+C:\Code\WindowScreenshot\WindowScreenshot\obj\Debug\WindowScreenshot.csproj.GenerateResource.Cache
+C:\Code\WindowScreenshot\WindowScreenshot\bin\Debug\WindowScreenshot.exe
+C:\Code\WindowScreenshot\WindowScreenshot\bin\Debug\WindowScreenshot.pdb
+C:\Code\WindowScreenshot\WindowScreenshot\obj\Debug\WindowScreenshot.exe
+C:\Code\WindowScreenshot\WindowScreenshot\obj\Debug\WindowScreenshot.pdb
